@@ -1,0 +1,18 @@
+{
+  "name": "plugins-locais",
+  "owner": {
+    "name": "Maquina 01"
+  },
+  "metadata": {
+    "description": "Marketplace local de plugins pessoais."
+  },
+  "plugins": [
+    {
+      "name": "google-ads-toolkit",
+      "source": "./google-ads-toolkit",
+      "description": "Gestao e otimizacao de campanhas Google Ads: mineracao de termos de busca, orcamento e impression share, auditoria de anuncios, diagnostico de performance, estrutura de conta e revisoes recorrentes. Todas as mutacoes exigem aprovacao explicita.",
+      "version": "0.1.0",
+      "category": "marketing"
+    }
+  ]
+}

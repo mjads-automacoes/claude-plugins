@@ -1,0 +1,17 @@
+# Entregáveis com dados reais de cliente — nunca versionar
+google-ads-toolkit/outputs/
+
+# Pacotes gerados
+_zips/
+
+# Credenciais e ambiente do servidor MCP local
+google-ads-toolkit/mcp-server/.env
+google-ads-toolkit/mcp-server/.venv/
+google-ads-toolkit/mcp-server/google-ads.yaml
+__pycache__/
+*.pyc
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

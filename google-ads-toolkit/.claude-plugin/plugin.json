@@ -1,0 +1,16 @@
+{
+  "name": "google-ads-toolkit",
+  "version": "0.1.0",
+  "description": "Gestao e otimizacao de campanhas Google Ads: mineracao de termos de busca, orcamento e impression share, auditoria de anuncios, diagnostico de performance, estrutura de conta e revisoes recorrentes. Todas as mutacoes exigem aprovacao explicita.",
+  "author": {
+    "name": "Google Ads Toolkit"
+  },
+  "keywords": [
+    "google-ads",
+    "ppc",
+    "sem",
+    "paid-search",
+    "performance-max",
+    "otimizacao"
+  ]
+}
